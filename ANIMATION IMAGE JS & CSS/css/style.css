@@ -45,6 +45,8 @@ p.text {
    z-index:100;
    position:relative;
    color: rgb(1, 36, 24);
+   text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F,
+        0 0 0.2em #87F;
    font-size:24px;
    font-weight:bold;
    left:90px;
